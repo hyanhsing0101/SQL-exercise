@@ -1,7 +1,7 @@
 -- LINK : https://en.wikibooks.org/wiki/SQL_Exercises/Employee_management
------------------------------------------
+-- ---------------------------------------
 -- Build the Schema
------------------------------------------
+-- ---------------------------------------
 
 CREATE TABLE Departments (
   Code INTEGER PRIMARY KEY,
